@@ -1,7 +1,7 @@
 {
   "name": "vite-plugin-zodenv",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "packageManager": "pnpm@7.2.1",
   "description": "Validate your environment variables with zod and vite",
   "author": "Gustavo Konrad <g.konrad@outlook.com>",

@@ -13,7 +13,8 @@
   "bugs": "https://github.com/g-konrad/vite-plugin-zodenv/issues",
   "keywords": [
     "vite",
-    "zod"
+    "zod",
+    "plugin"
   ],
   "sideEffects": false,
   "exports": {

@@ -4,6 +4,7 @@ importers:
 
   .:
     specifiers:
+      '@antfu/ni': ^0.17.2
       '@types/node': ^18.0.3
       '@typescript-eslint/eslint-plugin': ^5.30.6
       '@typescript-eslint/parser': ^5.30.6
@@ -20,6 +21,7 @@ importers:
       vitest: ^0.18.0
       zod: ^3.17.3
     devDependencies:
+      '@antfu/ni': 0.17.2
       '@types/node': 18.0.3
       '@typescript-eslint/eslint-plugin': 5.30.6_2vt5mtrqleafs33qg2bhpmbaqm
       '@typescript-eslint/parser': 5.30.6_4x5o4skxv6sl53vpwefgt23khm
@@ -44,6 +46,11 @@ packages:
     dependencies:
       '@jridgewell/gen-mapping': 0.1.1
       '@jridgewell/trace-mapping': 0.3.14
+    dev: true
+
+  /@antfu/ni/0.17.2:
+    resolution: {integrity: sha512-uYsmcsQzylpMiRB4gJRwcEJMIrKyeHZO0CJct8MmqkT3B7HTFU6oSZhDB50E/XvQw7FW8oT/tKsq3NFplRgG2Q==}
+    hasBin: true
     dev: true
 
   /@babel/code-frame/7.18.6:
